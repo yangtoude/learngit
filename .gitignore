@@ -1,2 +1,5 @@
 #pid files
 *.pid
+
+# swp files
+*.swp
